@@ -1,0 +1,22 @@
+/* your styles go here */
+.alert-link,.alert-link:hover{
+    text-decoration:none;
+}
+.text-red{
+    color:red
+}
+.text-blue{
+    color: blue;
+}
+.text-greenYellow{
+    color:#bfff00
+}
+.micro_active,.micro_active:hover{
+    color: #6897E5 !important;
+    border: 1px solid #6897E5;
+    border-radius: 50% !important;
+    padding: 5px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
